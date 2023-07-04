@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """"
     This module contains the Console
-""""
+"""
 import cmd
 import shlex
 from models import storage

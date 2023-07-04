@@ -6,6 +6,7 @@ from models.base_model import BaseModel
 
 
 def test_base_model():
+
     # Cargar objetos previamente guardados
     all_objs = storage.all()
     print("-- Reloaded objects --")
